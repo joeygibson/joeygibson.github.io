@@ -28,7 +28,7 @@ twitter_username: joeygibson
 github_username:  joeygibson
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
