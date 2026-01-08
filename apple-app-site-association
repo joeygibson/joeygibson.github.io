@@ -1,6 +1,14 @@
 {
   "applinks": {
     "apps": [],
-    "details": []
+    "details": [
+      {
+        "appID": "7TX2K2PSV2.com.joeygibson.Talrik",
+        "paths": [
+          "/talrik-app/oauth/threads/callback",
+          "/talrik-app/oauth/linkedin/callback"
+        ]
+      }
+    ]
   }
 }
